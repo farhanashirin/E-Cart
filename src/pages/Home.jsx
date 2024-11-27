@@ -1,5 +1,5 @@
 
-import { fetchProducts } from '../Redux/slice/productSlice'
+import { fetchProducts } from '../Redux/Slice/productSlice'
 
 
 import React, { useEffect } from 'react'
